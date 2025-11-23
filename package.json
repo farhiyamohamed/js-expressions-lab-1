@@ -27,14 +27,22 @@
     "babel-core": "6.26.3",
     "babel-preset-env": "1.7.0",
     "chai": "4.1.2",
+    "chai-spies-next": "^0.9.3",
     "file-system": "2.2.2",
     "jsdom": "9.2.1",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
-    "mocha-multi": "1.0.1",
-    "chai-spies-next": "^0.9.3"
+    "mocha-multi": "1.0.1"
   },
   "dependencies": {
-    "sinon": "^7.3.2"
+    "all": "^0.0.0",
+    "contained": "^0.0.1",
+    "in": "^0.19.0",
+    "install": "^0.13.0",
+    "package.json": "^2.0.1",
+    "packages": "^0.0.8",
+    "sinon": "^7.3.2",
+    "the": "^1.0.2",
+    "to": "^0.2.9"
   }
 }
